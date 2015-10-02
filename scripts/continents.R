@@ -6,6 +6,8 @@
 # call a package to make it available
 library(ggplot2)
 
+#yolo
+
 # assuming we have a data folder containing gapminder.RData
 load("data/gapminder.RData")
 
