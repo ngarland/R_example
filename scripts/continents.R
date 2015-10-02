@@ -1,4 +1,4 @@
-env/ Rscript
+script
 # Title: continents plotting
 # Author: nathan
 # 2 oct 15
