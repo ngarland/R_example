@@ -12,6 +12,7 @@ library(ggplot2)
 load("data/gapminder.RData")
 
 # function for scatter plot for continents
+# changes changes
 # IN: df - data.frame class
 # OUT: none - graphical output of plot from df
 draw_dots_continent <- function(df){
